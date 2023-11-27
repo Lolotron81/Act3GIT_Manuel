@@ -6,7 +6,7 @@ public class NumerosAleatorios {
   
   public static final int COMIENZO_INTERVALO = 1;
   public static final int FIN_INTERVALO = 10;
-  public static final int CANTIDAD_NUMEROS_ALEATORIOS = 20;
+  public static final int CANTIDAD_NUMEROS_ALEATORIOS = 30;
 
 	public static void main(String[] args) {
 		
